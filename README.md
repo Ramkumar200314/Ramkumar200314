@@ -51,7 +51,7 @@ Status   : Open to DevOps / Cloud / SRE opportunities 🚀
   <a href="https://linkedin.com/in/ramkumarkundrapu" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:kundrapuram.kumar@wipro.com" target="blank">
+  <a href="mailto:ramkumar20034@gmail.com" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Email" height="30" width="40" />
   </a>
   <a href="https://www.kaggle.com/kundrapuramkumar" target="blank">
