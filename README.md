@@ -91,16 +91,16 @@ Status   : Open to DevOps / Cloud / SRE opportunities 🚀
 ---
 
 ## 📜 Certifications
+## 📜 Certifications
 
 <div align="center">
 
-![AWS CCP](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP ACE](https://img.shields.io/badge/Google_Cloud-Associate_Cloud_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![GCP ADP](https://img.shields.io/badge/Google_Cloud-Associate_Data_Practitioner-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS GenAI](https://img.shields.io/badge/AWS_Educate-Generative_AI-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+[![AWS CCP](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/d9c917ca-f573-4f4a-9152-1dd12729abbc)
+[![AWS GenAI](https://images.credly.com/size/110x110/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob)](https://www.credly.com/badges/a5e4ea7c-168e-4bbe-ba57-734394633598)
+[![GCP ACE](https://images.credly.com/size/110x110/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png)](https://www.credly.com/badges/1cbfb71c-6b53-4c16-a571-dc5de20eb708)
+[![GCP ADP](https://images.credly.com/size/110x110/images/3e3f6d8b-b37e-4a3d-93d0-6f2bafa5f03c/blob)](https://www.credly.com/earner/earned/badge/79da68df-87d8-47f9-9535-aec058d4976d)
 
 </div>
-
 ---
 ## 📊 GitHub Activity
 
