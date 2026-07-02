@@ -41,7 +41,7 @@ Status   : Open to DevOps / Cloud / SRE opportunities 🚀
 - 🆘 **Looking for help with** — Kubernetes orchestration and advanced Terraform modules
 - 🌱 **Currently learning** — Kubernetes (K8s), advanced Docker networking, and AWS Solutions Architecture
 - 💬 **Ask me about** — Splunk, Datadog, ELK Stack, Terraform, Docker, GitHub Actions, AWS, Linux
-- 📫 **Reach me at** — [kundrapuram.kumar@wipro.com](mailto:kundrapuram.kumar@wipro.com)
+- 📫 **Reach me at** — [ramkumar20034@gmail.com](mailto:ramkumar20034@gmail.com)
 - ⚡ **Fun fact** — I debugged **5 chained version conflicts** in a Docker build (Gradle → AGP → Kotlin → Flutter SDK → font package) and shipped a fully automated CI/CD pipeline — all while on 24x7 rotational shifts! 🛠️
 
 ---
@@ -102,17 +102,13 @@ Status   : Open to DevOps / Cloud / SRE opportunities 🚀
 </div>
 
 ---
+## 📊 GitHub Activity
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ramkumar200314&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ramkumar200314&theme=tokyo-night&hide_border=true&area=true)
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ramkumar200314&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
+</div>
 ---
 
 ### 🔥 GitHub Streak
@@ -126,8 +122,15 @@ Status   : Open to DevOps / Cloud / SRE opportunities 🚀
 ---
 
 ### 🔝 Top Contributed Repos
+## 📌 My Best Work
 
-![](https://github-contributor-stats.vercel.app/api?username=Ramkumar200314&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
+> 👇 Check out my pinned repositories below for my featured projects
+
+| 🌟 Most Impressive | Why |
+|---|---|
+| [hmpv-shield-flutter-cicd](https://github.com/Ramkumar200314/hmpv-shield-flutter-cicd) | Live CI/CD pipeline — green badge proves it works |
+| [terraform-aws-ha-infrastructure](https://github.com/Ramkumar200314/terraform-aws-ha-infrastructure) | Real IaC — multi-AZ AWS architecture |
+| [linux-ubuntu-lvm-deployment](https://github.com/Ramkumar200314/linux-ubuntu-lvm-deployment) | Linux sysadmin skills — LVM from scratch |
 
 ---
 
