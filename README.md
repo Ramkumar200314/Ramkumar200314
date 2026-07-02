@@ -91,7 +91,6 @@ Status   : Open to DevOps / Cloud / SRE opportunities 🚀
 ---
 
 ## 📜 Certifications
-## 📜 Certifications
 
 <div align="center">
 
